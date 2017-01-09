@@ -7,4 +7,5 @@ spring:
       server:
         git:
           #uri: https://github.com/kingshiyv/config-repo
-          uri: https://github.com/kbastani/spring-boot-microservice-config
+          #uri: https://github.com/kbastani/spring-boot-microservice-config
+          uri: https://github.com/kingshiyv/springCloudDemo-config
